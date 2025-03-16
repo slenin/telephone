@@ -13,6 +13,7 @@ pip install -r requirement.txt
 
 ## Create a .env file in the folder with the following content
 OPENAI_API_KEY=<key here>
+
 HYPEBOLIC_API_KEY=<key here>
 
 ## Run the code
